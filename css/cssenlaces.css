@@ -1,0 +1,14 @@
+ h1{
+    text-align: center;
+ }
+.fotos{
+    margin-left:20px;
+    margin-top: 10px;
+}
+.letras{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    font-style: italic;
+    color: black;
+    margin-left: 10px;
+}
